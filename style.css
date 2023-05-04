@@ -1,0 +1,28 @@
+.background-banner{
+    min-height: 35.75rem;
+    background-image: linear-gradient(103.24deg, rgba(0, 8, 29, 0.9) 23.83%, rgba(0, 8, 29, 0.3) 96.1%),url(Images/IN-en-20230417-popsignuptwoweeks-perspective_alpha_website_large.jpg)
+    
+}
+.home-h1{
+    color: white;
+    font-size: 3.125rem;
+    font-weight: bold;
+    padding-left: 54px;
+}
+.home-h4{
+    padding-left: 66px;
+    color: white;
+}
+.home-para{
+    font-size: 18px;
+}
+.netflix-pic:hover{
+    transform: translateY(-6px);
+    cursor: pointer;
+}
+li{
+    list-style: none;
+}
+.button:hover{
+    cursor: pointer;
+}
